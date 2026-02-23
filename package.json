@@ -1,0 +1,31 @@
+{
+  "name": "react_as",
+  "version": "1.0.0",
+  "description": "Growing....",
+  "homepage": "https://github.com/MaheshS-ctrl/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/MaheshS-ctrl/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshS-ctrl/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Mahesh Sutar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserlist": [
+    "last 2 version"
+  ]
+}
